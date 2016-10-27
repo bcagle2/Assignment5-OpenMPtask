@@ -1,0 +1,10 @@
+ arraySize=100000000 numThreads=1 schedule type=dynamic1000 minimum was=54 and it took 0.391181 seconds
+ arraySize=100000000 numThreads=2 schedule type=dynamic1000 minimum was=0 and it took 0.19439 seconds
+ arraySize=100000000 numThreads=4 schedule type=dynamic1000 minimum was=0 and it took 0.194643 seconds
+ arraySize=100000000 numThreads=8 schedule type=dynamic1000 minimum was=0 and it took 0.100875 seconds
+ arraySize=100000000 numThreads=16 schedule type=dynamic1000 minimum was=0 and it took 0.0525529 seconds
+ arraySize=100000000 numThreads=1 schedule type=dynamic100000 minimum was=54 and it took 0.387559 seconds
+ arraySize=100000000 numThreads=2 schedule type=dynamic100000 minimum was=0 and it took 0.196383 seconds
+ arraySize=100000000 numThreads=4 schedule type=dynamic100000 minimum was=0 and it took 0.196812 seconds
+ arraySize=100000000 numThreads=8 schedule type=dynamic100000 minimum was=0 and it took 0.100867 seconds
+ arraySize=100000000 numThreads=16 schedule type=dynamic100000 minimum was=0 and it took 0.052527 seconds

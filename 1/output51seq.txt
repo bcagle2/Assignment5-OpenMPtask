@@ -1,0 +1,1 @@
+ arraySize=1000000 numThreads=1 schedule type=static minimum was=247 and it took 0.00462198 seconds
