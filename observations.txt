@@ -1,0 +1,12 @@
+Assignment 5 #1 Observations
+Based on the data obtained from this run, the speedup, using recursive is much slower than the technique used in assignment 4.  This was not as fast as sequential.
+
+
+Assignment 5 #2 Observations
+Based on the observed data, the recursive algorithm used in this code is not as efficient as that in assignment 4, or even sequential.
+
+Assignment 5 #3 Observations
+Based on the observed data, the algorithm used for this merge sort is much more efficient, especially of threads of 8 and 16 than the code used in assignment 4.  At 16 threads it was 1.75 speedup in assignment 4, and 3.4 speedup in this assignment.
+
+Assignment 5 #4 Observations
+From the observed times, the algorithm used in this assignment is almost double the speedup from assignment 4.  It's pretty consistent with a 6.8 speedup over sequential.
