@@ -1,0 +1,5 @@
+ arraySize=1000000000 numThreads=1 and it took 37.5779 seconds
+ arraySize=1000000000 numThreads=2 and it took 20.5669 seconds
+ arraySize=1000000000 numThreads=4 and it took 22.1906 seconds
+ arraySize=1000000000 numThreads=8 and it took 15.1255 seconds
+ arraySize=1000000000 numThreads=16 and it took 11.3005 seconds
