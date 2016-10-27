@@ -1,0 +1,5 @@
+ intensity=50000000 intensityFactor=5 maxThreads=16 and it took 0.474508 seconds
+ intensity=100000000 intensityFactor=5 maxThreads=16 and it took 0.948194 seconds
+ intensity=150000000 intensityFactor=5 maxThreads=16 and it took 1.42906 seconds
+ intensity=500000000 intensityFactor=5 maxThreads=16 and it took 4.78512 seconds
+ intensity=1000000000 intensityFactor=5 maxThreads=16 and it took 9.47073 seconds
